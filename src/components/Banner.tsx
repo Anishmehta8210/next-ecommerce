@@ -1,7 +1,7 @@
 import Image from "next/image";
 import { Carousel } from "react-responsive-carousel";
 import sliderImg_1 from "../images/slider/sliderImg_1.jpg"
-import sliderImg_2 from "../images/slider/sliderImg_2.jpg"
+import sliderImg_2 from "../images/slider/sliderImg_4.jpg"
 import sliderImg_3 from "../images/slider/sliderImg_3.jpg"
 const Banner = () => {
   return (
